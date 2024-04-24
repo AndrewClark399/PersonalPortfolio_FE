@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+#contact {
+  width: 30%;
+  padding-left: 15px;
+  padding-bottom: 25px;
+  margin-right: 100px;
+  margin-left: 100px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+  font-size: 30px;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  padding-bottom: 25px;
+  margin-right: 250px;
+  margin-left: 10px;
+  float: right;
+  font-style: italic;
+ 
+  font-size: 30px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +59,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#form {
+  font-family: "Aldrich", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
